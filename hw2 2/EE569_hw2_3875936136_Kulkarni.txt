@@ -1,0 +1,18 @@
+# EE569 Homework Assignment #2
+# Date: Feb 19, 2024
+# Name: Shruti Kulkarni
+# ID: 3875-9361-36
+# email: shrutik@usc.edu
+=======================================
+
+"readraw.m" and "writeraw.m" are to be opened before running any of the programs.
+For problem 1:
+
+1. Open "Sobel.m", "zeropad.m", "conv_img.m". This is used to run both sobel and canny filters. 
+2. for problem 1c and 1d open source code was used. 
+
+For problem 2:
+1. Complete problem 2 code, including subsections is present in "Dithering.m" and "Floyd_Steinberg.m", "add_error.m" file. 
+
+For problem 3:
+1. Open "Floyd_Steinberg.m", "color_halftoning.m", "add_error.m" for all the sub-questions.
